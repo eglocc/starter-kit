@@ -1,4 +1,4 @@
-### Starter Kit
+## Starter Kit
 
 I would like to show you that there are really great resources out there on the Internet to get started with coding.
     
